@@ -1,9 +1,10 @@
 # Capstone
 
-To Run:
--Update IP Address in main function of student.py, admin.py, and teacher.py.
--Update AWS credentials in teacher.py and student.py.
--Update MySQL credentials in database.py
+Before Running:
+
+Update IP Address in main function of student.py, admin.py, and teacher.py.
+Update AWS credentials in teacher.py and student.py.
+Update MySQL credentials in database.py
 
 Run with:
 
