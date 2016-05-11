@@ -7,7 +7,7 @@ To Run:
 
 Run with:
 
->>python3 admin.py
+python3 admin.py
 
 Administration Application:
 http://<ipaddress>:5588/
@@ -17,4 +17,5 @@ Teacher Application:
 http://<ipadress>:5588/teachers/
 
 If port is blocked, use:
->>fuser -k 5588/tcp
+
+fuser -k 5588/tcp
